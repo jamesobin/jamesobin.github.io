@@ -22,7 +22,7 @@ authors:
     jamesobin:
       name:           Kwon OBin
       site:           https://github.com/jamesobin
-      avatar:         /assets/images/avatar1.jpg
+      avatar:         assets/images/avatar1.jpg
       bio:            "Just For Fun"
       email:          jamesobin@naver.com
       #twitter:        https://twitter.com/wowthemesnet
@@ -36,7 +36,7 @@ defaults:
     values:
       layout: post
       author: sal
-      avatar: /assets/images/avatar1.jpg
+      avatar: assets/images/avatar1.jpg
       
   # all pages
   - scope:
